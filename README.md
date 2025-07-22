@@ -11,7 +11,7 @@
 
 ## 🧠 Tech Stack
 
-- 🌐 HTML | CSS | JavaScript
+- 🌐 HTML | CSS | JavaScript | React
 - 🧩 C++
 - 🗄️ Git & GitHub
 - 📊 Data Structures & Algorithms (on LeetCode)
@@ -26,11 +26,6 @@
 
 ---
 
-## 🧑‍💻 LeetCode Profile
-
-- 🔗 LeetCode - (https://leetcode.com/shubhamdoingDSA)
-
----
 
 ## 📫 Let's Connect
 
@@ -39,7 +34,3 @@
 
 ---
 
-## 📌 Fun Fact
-I love turning ideas into real, working products — and clean UI makes me happy. 😄
-
-Thanks for visiting! 😊
