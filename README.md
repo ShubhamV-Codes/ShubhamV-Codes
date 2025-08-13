@@ -1,14 +1,20 @@
-# 👋 Hi there! I'm Shubham Vishwakarma
+ #                                      👋 Hi there! I'm Shubham Vishwakarma
 ---
 ## 🚀 About Me
-
+<!--
 ![Student](https://img.shields.io/badge/Student-B.Tech_CSE-blue?logo=graduation-cap)
 ![Web Dev](https://img.shields.io/badge/Web%20Dev-Available-green?logo=webcomponents.org)
 ![Learner](https://img.shields.io/badge/Learner-React/Node.js-informational?logo=book)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?logo=rocket)
 ![Location](https://img.shields.io/badge/Location-India-orange?logo=google-maps)
 ![Email](https://img.shields.io/badge/Email-sv8112004@gmail.com-red?logo=gmail)
+-->
 
+- 🎓 B.Tech CSE student focused on Web Development and DSA  
+- 💻 Building clean, efficient, and user‑friendly web apps  
+- 🌱 Currently learning React and Node.js  
+- 🤝 Open to Internships and Collaboration  
+ - <img src="https://img.shields.io/badge/Open%20to%20Work-🟢-brightgreen" alt="Open to Work" />
 ---
 ## 🧠 Tech Stack
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -35,15 +41,38 @@
    ![GitHub Streak](https://streak-stats.demolab.com?user=ShubhamV-Codes)
    
 ---
-## 📈 Current Goals
-- Improve DSA skills through regular practice  
-- Build responsive and creative web projects  
-- Collaborate on open-source projects  
+<!-- Current Goal -->
+## 🎯 Current Goal
+
+- 🚧 Building: A full‑stack MERN app with JWT auth and role-based access
+- 📚 Learning: Advanced React Patterns (Context + Reducers, Custom Hooks)
+- 🧪 Practicing: DSA daily 
+- 🛠️ Tools Focus: Docker, GitHub Actions CI/CD
+  
+
 ---
-## 🤝 Collaboration & Opportunities
-- Found a bug or want a feature? Open an issue or PR!
-- Looking for an intern/junior web dev role — reach me at sv8112004@gmail.com
+## 🧩 Collaboration & Opportunities
+<!-- Collaboration -->
+## 🤝 Collaboration
+
+- 🧩 Open to: Web dev projects (React, Node.js)
+- 🛠️ What I bring: Clean code, component-driven UI, API integration
+- 📦 Prefer: GitHub Issues + PR workflow
+ <!-- 🤖 Interests: AI integrations, automation scripts, DevOps tooling -->
+
+<!-- Opportunities -->
+
+## 🌟 Opportunities
+
+- 💼 Looking for: Internships and part‑time roles in Full‑Stack/Frontend
+- 🗓️ Availability: 15–20 hrs/week, flexible timezone (IST)
+- 📫 Contact: LinkedIn DM or Email
+  <!--- 🧭 Domains: SaaS, Ed‑Tech, DevTools, Open‑Source -->
+ <!-- 🧾 Portfolio: Check pinned repos on my profile -->
+
 ---
 ## 📫 Let's Connect
 - [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/shubhamvcodes)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamvishwakarma-engineer)
+- [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:sv8112004@gmail.com)
+
