@@ -30,5 +30,4 @@
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamvishwakarma-engineer)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/shubhamvcodes)
-![Email](https://img.shields.io/badge/Email-sv8112004%40gmail.com-red?logo=gmail&logoColor=white)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram)](https://instagram.com/your_handle)
+[![Email](https://img.shields.io/badge/Email-sv8112004%40gmail.com-red?logo=gmail&logoColor=white)](mailto:sv8112004@gmail.com)
