@@ -32,7 +32,7 @@
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
 
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -40,12 +40,23 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 
+
+### 🚀 Deployment & Hosting
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+
+
+### 💻 Terminal / Shell
+![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25?logo=gnu-bash&logoColor=white)
+
  
 ---
 ## 📊 Stats 
+## 📊 Stats 
 - ![Languages](https://img.shields.io/badge/Languages-Top%20Langs-4C9AFF?logo=codefactor&logoColor=white)
                                    
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamV-Codes&layout=compact&langs_count=5&hide=html,css)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamV-Codes&layout=compact&langs_count=6&exclude_repo=repo1,repo2&hide=html,css)
   
 - ![Stats](https://img.shields.io/badge/GitHub-Stats-181717?logo=github&logoColor=white)
                                                       
@@ -90,4 +101,7 @@
 - [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/shubhamvcodes)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamvishwakarma-engineer)
 - [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:sv8112004@gmail.com)
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@shubhamwritecodes)  
+- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/29092165/shubham-vishwakarma)  
+
 
