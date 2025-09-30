@@ -51,6 +51,11 @@
 ### 💻 Terminal / Shell
 ![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25?logo=gnu-bash&logoColor=white)
 
+### 🖥️ Languages
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
  
 ---
 
