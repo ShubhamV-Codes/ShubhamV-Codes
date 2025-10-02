@@ -8,7 +8,7 @@
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?logo=rocket)
 ![Location](https://img.shields.io/badge/Location-India-orange?logo=google-maps)
 ![Email](https://img.shields.io/badge/Email-sv8112004@gmail.com-red?logo=gmail)
--->
+--> 
 
 - 🎓 B.Tech CSE student focused on Web Development and DSA  
 - 💻 Building clean, efficient, and user‑friendly web apps  
