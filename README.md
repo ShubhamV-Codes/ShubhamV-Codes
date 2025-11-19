@@ -71,11 +71,7 @@
 - ![Stats](https://img.shields.io/badge/GitHub-Stats-181717?logo=github&logoColor=white)
                                                       
     ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamV-Codes)
-    
-- ![Streak](https://img.shields.io/badge/Contribution-Streak-FF6B6B?logo=firefoxbrowser&logoColor=white)
-                                  
-   ![GitHub Streak](https://streak-stats.demolab.com?user=ShubhamV-Codes)
-   
+
 ---
 <!-- Current Goal -->
 ## 🎯 Current Goal
