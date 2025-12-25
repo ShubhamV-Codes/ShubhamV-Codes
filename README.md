@@ -10,7 +10,7 @@
 ![Email](https://img.shields.io/badge/Email-sv8112004@gmail.com-red?logo=gmail)
 --> 
 
-- 🎓 B.Tech CSE student focused on Web Development and DSA  
+- 🎓 B.Tech CSE student focused on Web Development and DSA   
 - 💻 Building clean, efficient, and user‑friendly web apps  
 - 🌱 Currently learning React and Node.js  
 - 🤝 Open to Internships and Collaboration  
