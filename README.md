@@ -113,7 +113,7 @@ Goal: Master full-stack development & contribute to open-source projects
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | 🌟 **Vistara** | Full-stack MERN application | MongoDB, Express, React, Node | [![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://vistara-lime.vercel.app) |
-| 🚀 **BullEdge** | A Trading Platform | MongoDB, Express, React, Node | [![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://bulledge.vercel.app) |
+| 🚀 **BullEdge** | A Trading Platform | MongoDB, Express, React, Node | [![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://bull-edge.vercel.app) |
 
 
 *Check out my [repositories](https://github.com/ShubhamV-Codes?tab=repositories) for more projects!*
