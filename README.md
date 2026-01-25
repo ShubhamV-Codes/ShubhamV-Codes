@@ -4,25 +4,16 @@
 
 ### 🚀 Full-Stack Web Developer | B.Tech CSE Student | Problem Solver
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-🟢%20Available-brightgreen?style=for-the-badge" alt="Open to Work" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Problem+Solver;)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ShubhamV-Codes&color=6C63FF&style=for-the-badge&label=Profile+Views)
 
 </div>
 
 ---
 
 ## 🚀 About Me
-
-```javascript
-const shubham = {
-    education: "B.Tech in Computer Science",
-    focus: ["Web Development", "DSA", "Problem Solving"],
-    currentlyLearning: ["React.js", "Node.js", "Advanced Patterns"],
-    lookingFor: "Internship & Collaboration Opportunities",
-    funFact: "I debug with console.log() 🐛"
-};
-```
 
 - 🎓 B.Tech CSE student passionate about building scalable web applications
 - 💻 Creating clean, efficient, and user-friendly web experiences
@@ -55,6 +46,7 @@ const shubham = {
 | Category | Technologies |
 |----------|-------------|
 | **Runtime & Frameworks** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
+| **Real-time** | ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white) |
 
 ### 🗄️ Databases
 
@@ -67,13 +59,15 @@ const shubham = {
 
 | Category | Technologies |
 |----------|-------------|
-| **Platforms** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Render](https://img.shields.io/badge/Render-0078D7?style=for-the-badge&logo=render&logoColor=white) ![Cloudify](https://img.shields.io/badge/Cloudify-00AEEF?style=for-the-badge&logo=cloudify&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white) |
+| **Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
+| **Hosting** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Render](https://img.shields.io/badge/Render-0078D7?style=for-the-badge&logo=render&logoColor=white) ![Cloudify](https://img.shields.io/badge/Cloudify-00AEEF?style=for-the-badge&logo=cloudify&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white) |
 
 ### 🔧 Tools & Version Control
 
 | Category | Technologies |
 |----------|-------------|
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| **DevOps & Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
 | **IDE & Terminal** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 
 </div>
@@ -92,20 +86,6 @@ const shubham = {
 
 ---
 
-## 🎯 Current Focus
-
-```yaml
-Building: Full-stack MERN application with JWT authentication & role-based access control
-Learning: Advanced React patterns (Context API, Custom Hooks, Performance optimization)
-Practicing: Data Structures & Algorithms daily on LeetCode
-Exploring: Docker containerization & GitHub Actions CI/CD pipelines
-Goal: Master full-stack development & contribute to open-source projects
-```
-
----
-
-
-
 ## 🏗️ Featured Projects
 
 <div align="center">
@@ -114,7 +94,6 @@ Goal: Master full-stack development & contribute to open-source projects
 |---------|-------------|------------|-------|
 | 🌟 **Vistara** | Full-stack MERN application | MongoDB, Express, React, Node | [![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://vistara-lime.vercel.app) |
 | 🚀 **BullEdge** | A Trading Platform | MongoDB, Express, React, Node | [![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://bull-edge.vercel.app) |
-
 
 *Check out my [repositories](https://github.com/ShubhamV-Codes?tab=repositories) for more projects!*
 
@@ -133,8 +112,6 @@ Goal: Master full-stack development & contribute to open-source projects
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/29092165/shubham-vishwakarma)
 
 ### 💬 Let's Build Something Amazing Together!
-
-![Profile Views](https://komarev.com/ghpvc/?username=ShubhamV-Codes&color=6C63FF&style=for-the-badge&label=Profile+Views)
 
 </div>
 
