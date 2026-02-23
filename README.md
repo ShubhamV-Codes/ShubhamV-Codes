@@ -29,6 +29,28 @@ I write code that's meant to be read, not just run.
 
 ---
 
+## Tech Stack
+
+<div align="center">
+
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,materialui" />
+
+
+
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp,nodejs,express,mongodb,mysql,firebase" />
+
+
+
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,vscode,postman,npm" />
+
+</div>
+
+---
+
+
 ## GitHub Activity
 
 <div align="center">
@@ -49,14 +71,14 @@ Open to conversations about engineering, architecture, or building something tog
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td align="center" width="100">
-<a href="https://linkedin.com/in/shubhamvishwakarma-engineer">
+<a href="https://linkedin.com/in/shubhamvishwakarma-swe">
 <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /><br/>
 <sub><b>LinkedIn</b></sub>
 </a>
 </td>
 <td width="20"></td>
 <td align="center" width="100">
-<a href="https://x.com/shubhamvcodes">
+<a href="https://x.com/shubhamxdev">
 <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="X / Twitter" /><br/>
 <sub><b>Twitter / X</b></sub>
 </a>
