@@ -1,124 +1,82 @@
 <div align="center">
 
-# 👋 Hi there! I'm Shubham Vishwakarma
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-### 🚀 Full-Stack Web Developer | B.Tech CSE Student | Problem Solver
+```
+╔══════════════════════════════════════════════════════════════╗
+║   SHUBHAM VISHWAKARMA  ·  Full-Stack Engineer                ║
+║   Building systems that scale · Writing code that lasts      ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Problem+Solver;)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ShubhamV-Codes&color=6C63FF&style=for-the-badge&label=Profile+Views)
-
-</div>
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech CSE student passionate about building scalable web applications
-- 💻 Creating clean, efficient, and user-friendly web experiences
-- 🌱 Deep diving into React ecosystem and backend development
-- 🤝 Open to internships, collaborations, and open-source contributions
-- 📚 Daily DSA practice to sharpen problem-solving skills
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages & Core Technologies
-
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-
-### 🎨 Frontend Development
-
-| Category | Technologies |
-|----------|-------------|
-| **Core** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Frameworks** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
-| **Styling** | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white) |
-
-### ⚙️ Backend Development
-
-| Category | Technologies |
-|----------|-------------|
-| **Runtime & Frameworks** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
-| **Real-time** | ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white) |
-
-### 🗄️ Databases
-
-| Category | Technologies |
-|----------|-------------|
-| **NoSQL** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **SQL** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-
-### ☁️ Cloud & Hosting
-
-| Category | Technologies |
-|----------|-------------|
-| **Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
-| **Hosting** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Render](https://img.shields.io/badge/Render-0078D7?style=for-the-badge&logo=render&logoColor=white) ![Cloudify](https://img.shields.io/badge/Cloudify-00AEEF?style=for-the-badge&logo=cloudify&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white) |
-
-### 🔧 Tools & Version Control
-
-| Category | Technologies |
-|----------|-------------|
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| **DevOps & Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
-| **IDE & Terminal** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+<img src="https://komarev.com/ghpvc/?username=ShubhamV-Codes&color=7c3aed&style=flat-square&label=profile+views" />
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## About
+
+Full-stack engineer working across the entire web stack — from UI to API to infrastructure. I build with the MERN stack and spend a meaningful amount of time studying **system design**: how distributed systems fail, how to design for scale, and what makes an architecture maintainable over time.
+
+I write code that's meant to be read, not just run.
+
+```
+→  Full-Stack · MERN · Real-Time Systems
+→  Studying: System Design · Distributed Architecture · Cloud Infrastructure
+→  Open to: Internships · Collaborations · Open-source
+```
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamV-Codes&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamV-Codes&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
 </div>
 
 ---
 
-## 🏗️ Featured Projects
+
+## Let's Connect
+
+Open to conversations about engineering, architecture, or building something together.
 
 <div align="center">
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🌟 **Vistara** | Full-stack MERN application | MongoDB, Express, React, Node | [![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://vistara-lime.vercel.app) |
-| 🚀 **BullEdge** | A Trading Platform | MongoDB, Express, React, Node | [![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://bull-edge.vercel.app) |
-
-*Check out my [repositories](https://github.com/ShubhamV-Codes?tab=repositories) for more projects!*
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center" width="100">
+<a href="https://linkedin.com/in/shubhamvishwakarma-engineer">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /><br/>
+<sub><b>LinkedIn</b></sub>
+</a>
+</td>
+<td width="20"></td>
+<td align="center" width="100">
+<a href="https://x.com/shubhamvcodes">
+<img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="X / Twitter" /><br/>
+<sub><b>Twitter / X</b></sub>
+</a>
+</td>
+<td width="20"></td>
+<td align="center" width="100">
+<a href="mailto:sv8112004@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" /><br/>
+<sub><b>Gmail</b></sub>
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📫 Connect With Me
-
-<div align="center">
-
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shubhamvcodes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamvishwakarma-engineer)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sv8112004@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shubhamwritecodes)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/29092165/shubham-vishwakarma)
-
-### 💬 Let's Build Something Amazing Together!
-
-</div>
-
 ---
 
 <div align="center">
-
-### ⭐ If you like my work, consider giving a star to my repositories!
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
 </div>
