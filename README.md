@@ -80,7 +80,7 @@ Open to conversations about engineering, architecture, or building something tog
 <td align="center" width="100">
 <a href="https://x.com/shubhamxdev">
 <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="X / Twitter" /><br/>
-<sub><b>Twitter / X</b></sub>
+<sub><b>Twitter</b></sub>
 </a>
 </td>
 <td width="20"></td>
