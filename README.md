@@ -19,14 +19,6 @@
 
 Full-stack engineer working across the entire web stack — from UI to API to infrastructure. I build with the MERN stack and spend a meaningful amount of time studying **system design**: how distributed systems fail, how to design for scale, and what makes an architecture maintainable over time.
 
-I write code that's meant to be read, not just run.
-
-```
-→  Full-Stack · MERN · Real-Time Systems
-→  Studying: System Design · Distributed Architecture · Cloud Infrastructure
-→  Open to: Internships · Collaborations · Open-source
-```
-
 ---
 
 ## Tech Stack
@@ -39,7 +31,7 @@ I write code that's meant to be read, not just run.
 
 
 <br/>
-<img src="https://skillicons.dev/icons?i=cpp,nodejs,express,mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=cpp,nodejs,express,mongodb,mysql,firebase,postgresql,prisma" />
 
 
 
@@ -59,43 +51,6 @@ I write code that's meant to be read, not just run.
 
 </div>
 
----
-
-
-## Let's Connect
-
-Open to conversations about engineering, architecture, or building something together.
-
-<div align="center">
-
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td align="center" width="100">
-<a href="https://linkedin.com/in/shubhamvishwakarma-swe">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /><br/>
-<sub><b>LinkedIn</b></sub>
-</a>
-</td>
-<td width="20"></td>
-<td align="center" width="100">
-<a href="https://x.com/shubhamxdev">
-<img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter" /><br/>
-<sub><b>Twitter</b></sub>
-</a>
-</td>
-<td width="20"></td>
-<td align="center" width="100">
-<a href="mailto:sv8112004@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" /><br/>
-<sub><b>Gmail</b></sub>
-</a>
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ---
 
