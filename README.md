@@ -8,9 +8,6 @@
 ║   Building systems that scale · Writing code that lasts      ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-
-<img src="https://komarev.com/ghpvc/?username=shubhamxdevs&color=7c3aed&style=flat-square&label=profile+views" />
-
 </div>
 
 ---
