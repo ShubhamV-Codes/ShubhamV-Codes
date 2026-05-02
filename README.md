@@ -9,7 +9,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://komarev.com/ghpvc/?username=ShubhamV-Codes&color=7c3aed&style=flat-square&label=profile+views" />
+<img src="https://komarev.com/ghpvc/?username=shubhamxdevs&color=7c3aed&style=flat-square&label=profile+views" />
 
 </div>
 
@@ -47,7 +47,7 @@ Full-stack engineer working across the entire web stack — from UI to API to in
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamV-Codes&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamxdevs&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
 </div>
 
